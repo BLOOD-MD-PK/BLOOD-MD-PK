@@ -1,45 +1,47 @@
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/BLOOD-MD-PK/BLOOD-MD-PK/main/name.svg" width="400" alt="BLOOD MD Logo">
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/BLOOD-MD-PK">
-    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hello+Everyone+👋;My+Name+is+BLOOD+MD;I+am+from+Pakistan+🇵🇰;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
-  </a>
-</p>
+<img src="https://github.com/BLOOD-MD-PK/BLOOD-MD-PK/blob/main/name.svg?raw=true" width="450" alt="BLOOD MD"/>
 
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Divider">
-</p>
+<br><br>
 
-<h1 align="center">
-  🇵🇰 BLOOD-MD PK 🇵🇰
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hello+Everyone+👋;My+Name+is+BLOOD+MD;I+Am+From+Pakistan+🇵🇰;Welcome+To+My+GitHub+Profile)](https://github.com/BLOOD-MD-PK)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLOOD-MD-PK&show_icons=true&theme=radical" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BLOOD-MD-PK&theme=radical" />
-</p>
+<img src="https://i.imgur.com/LyHic3i.gif"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLOOD-MD-PK&layout=compact&theme=radical" />
-</p>
+# 🇵🇰 BLOOD-MD PK 🇵🇰
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🇵🇰 From Pakistan
 - 🤖 WhatsApp Bot Developer
-- 💻 JavaScript | Node.js
-- 🚀 Always Learning New Things
+- 💻 JavaScript / Node.js
+- 🎮 Minecraft Developer
+- 🇵🇰 Pakistan
 
 ---
 
-### 📫 Connect With Me
+## 📊 GitHub Stats
 
-- GitHub: https://github.com/BLOOD-MD-PK
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BLOOD-MD-PK&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BLOOD-MD-PK&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLOOD-MD-PK&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+Made with ❤️ by <b>BLOOD-MD</b>
+</p>
