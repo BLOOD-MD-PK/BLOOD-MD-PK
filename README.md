@@ -4,7 +4,7 @@
 
 # 🩸 BLOOD-MD PK 🩸
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hello+Everyone+👋;I'm+BLOOD-MD;WhatsApp+Bot+Developer;Minecraft+Developer;Welcome+To+My+GitHub!)](https://github.com/BLOOD-MD-PK)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hello+Everyone+👋;I'm+BLOOD-MD;WhatsApp+Bot+Developer;;Welcome+To+My+GitHub!)](https://github.com/BLOOD-MD-PK)
 
 <img src="https://i.imgur.com/LyHic3i.gif"/>
 
