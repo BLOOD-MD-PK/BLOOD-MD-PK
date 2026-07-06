@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<img src="https://github.com/BLOOD-MD-PK/BLOOD_MD_PK/blob/main/name.svg" width="400" alt="BLOOD-MD Logo"/>
+<img src="https://github.com/BLOOD-MD-PK/BLOOD-MD-PK/blob/main/name.svg" width="400" alt="BLOOD-MD Logo"/>
 
 </h1>
 
